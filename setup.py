@@ -6,7 +6,7 @@ setup(
     version='0.2.5',
     install_requires=[
         'numpy', 'networkx', 'torchvision', 'torch', 'dwave-qbsolv',
-        'qubovert', 'matplotlib', 'scipy', 'tensorflow', 'sklearn',
+        'qubovert', 'matplotlib', 'scipy', 'tensorflow', 'scikit-learn',
         'tensorboard', 'ml-pyxis',
     ],
     long_description_content_type='text/markdown',
